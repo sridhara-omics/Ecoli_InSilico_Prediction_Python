@@ -179,7 +179,7 @@ cv.glmnet has its special parameters including nfolds (the number of folds), fol
 plot(glmnet_output)
 ```
 
-![](Glmnet_testing_files/figure-latex/show plots of glmnet parameters to see if the model is ready to test-1.pdf)<!-- --> 
+![](Glmnet_testing_files/figure-latex/test-1.pdf)<!-- --> 
 Above plot is the cross-validation curve (red dotted line) along with upper and lower standard deviation curves
 along the λ sequence (error bars).
 
